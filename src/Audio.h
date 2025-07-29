@@ -27,7 +27,7 @@
 #include <codecvt>
 #include <locale>
 #include <memory>
-#include <NetworkClient.h>
+#include <Client.h>
 #include <NetworkClientSecure.h>
 #include <driver/i2s_std.h>
 #include "psram_unique_ptr.hpp"
