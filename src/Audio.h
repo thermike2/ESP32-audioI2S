@@ -28,7 +28,7 @@
 #include <locale>
 #include <memory>
 #include <Client.h>
-#include <NetworkClientSecure.h>
+#include <WiFiClientSecure.h>
 #include <driver/i2s_std.h>
 #include "psram_unique_ptr.hpp"
 
